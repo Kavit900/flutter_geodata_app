@@ -6,7 +6,7 @@ Repository containing Geolocator functionality implemented in Flutter
 
 https://youtu.be/BkBQ5A0SQmM
 
-##About Me
+## About Me
 
 Hi Folks! I am Kavit, a software engineer with a passion for teaching.
 
