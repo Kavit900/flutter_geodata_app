@@ -1,16 +1,21 @@
 # flutter_geodata_app
 
-A new Flutter project.
+Repository containing Geolocator functionality implemented in Flutter
 
-## Getting Started
+## Youtube Link
 
-This project is a starting point for a Flutter application.
+https://youtu.be/BkBQ5A0SQmM
 
-A few resources to get you started if this is your first Flutter project:
+##About Me
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Hi Folks! I am Kavit, a software engineer with a passion for teaching.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please follow me and show your support, so that I can keep bringing this type of content.
+
+📹 YouTube: https://www.youtube.com/channel/UCV-_hzlbVSlobkekurpLOZw/featured
+
+📸 Instagram: https://www.instagram.com/code_with_kavit/
+
+📂 Github: https://github.com/Kavit900
+
+💻 Discord: https://discord.gg/V3rhXEPe
